@@ -10,25 +10,26 @@ Es una plataforma de desarrollo colaborativo que permite a los desarrolladores a
 Para usar GitHub en tus proyectos, necesitas seguir varios pasos y tener ciertos elementos preparados:
 
 Cuenta en GitHub: 
-[_P]Primero, necesitas registrarte en GitHub creando una cuenta de usuario gratuita.
-Configuración de Git: Asegúrate de tener instalado Git en tu computadora y configúralo con tu nombre de usuario y correo electrónico.
-Creación de Repositorio: Crea un nuevo repositorio en GitHub para alojar tu proyecto.
-Clonar Repositorio: Clona el repositorio en tu máquina local para comenzar a trabajar en tu proyecto.
-Realizar Cambios: Modifica archivos y realiza cambios en tu código en tu máquina local.
-Confirmar Cambios: Usa git commit para confirmar tus cambios localmente, escribiendo un mensaje de confirmación conciso que describa lo que has hecho.
-Enviar Cambios: Envía tus cambios de vuelta al repositorio de GitHub usando git push.
-Solicitudes de Extracción (Pull Request): Una vez que tus cambios estén listos, crea una solicitud de extracción para proponer fusionarlos en la rama principal.
-Revisión y Fusión: Aborda cualquier comentario, realiza los cambios necesarios, y una vez aprobado, fusiona la solicitud de extracción.
-Estos pasos te permiten gestionar y colaborar eficientemente en tus proyectos de código usando GitHub.
+[X]Primero, necesitas registrarte en GitHub creando una cuenta de usuario gratuita.
+[X]Configuración de Git: Asegúrate de tener instalado Git en tu computadora y configúralo con tu nombre de usuario y correo electrónico.
+[X]Creación de Repositorio: Crea un nuevo repositorio en GitHub para alojar tu proyecto.
+[X]Clonar Repositorio: Clona el repositorio en tu máquina local para comenzar a trabajar en tu proyecto.
+[X]Realizar Cambios: Modifica archivos y realiza cambios en tu código en tu máquina local.
+[X]Confirmar Cambios: Usa git commit para confirmar tus cambios localmente, escribiendo un mensaje de confirmación conciso que describa lo que has hecho.
+[X]Enviar Cambios: Envía tus cambios de vuelta al repositorio de GitHub usando git push.
+[X]Solicitudes de Extracción (Pull Request): Una vez que tus cambios estén listos, crea una solicitud de extracción para proponer fusionarlos en la rama principal.
+[X]Revisión y Fusión: Aborda cualquier comentario, realiza los cambios necesarios, y una vez aprobado, fusiona la solicitud de extracción.
+[X]Estos pasos te permiten gestionar y colaborar eficientemente en tus proyectos de código usando GitHub.
+
 Alta GitHub, Git Bash (terminal), carpeta en disco local
 
 Comandos habituales para trabajar con repositorios remotos 
 Para trabajar con repositorios remotos, algunos comandos habituales incluyen:
 
-git clone: Este comando clona un repositorio remoto en tu máquina local. Por ejemplo, git clone URL_repositorio.
-git fetch: Descarga todas las confirmaciones realizadas en el repositorio remoto hacia tu repositorio local. Este comando no fusiona los cambios automáticamente, sino que los coloca en una rama oculta llamada FETCH_HEAD.
+git clone: Este comando clona un repositorio remoto en tu máquina local. Por ejemplo, git clone ```URL_repositorio.```
+git fetch: Descarga todas las confirmaciones realizadas en el repositorio remoto hacia tu repositorio local. Este comando no fusiona los cambios automáticamente, sino que los coloca en una rama oculta llamada ```FETCH_HEAD.```
 git pull: Este comando obtiene los cambios realizados en el repositorio remoto y los fusiona con tu repositorio local. Es equivalente a ejecutar git fetch seguido de git merge.
-git push: Envía los cambios realizados en tu repositorio local a la rama especificada en el repositorio remoto. Por ejemplo, git push nombre_repositorio nombre_rama.
+git push: Envía los cambios realizados en tu repositorio local a la rama especificada en el repositorio remoto. Por ejemplo, ```git push nombre_repositorio nombre_rama.```
 git remote add: Este comando añade un nuevo repositorio remoto. Por ejemplo, git remote add origin https://github.com/OWNER/REPOSITORY.git.
 git remote show origin: Este comando muestra información sobre el repositorio remoto, incluyendo las URLs de lectura y escritura, y las ramas locales y remotas.
 Estos comandos te permiten gestionar eficazmente tus repositorios tanto locales como remotos.
