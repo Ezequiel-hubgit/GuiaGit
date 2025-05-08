@@ -50,7 +50,8 @@ muestra el estado actual del directorio de trabajo y la área de ensayo en un re
 Fija en la historia del proyecto un snapshot del estado actual, es decir, una versión "segura" o relevante del mismo proyecto. <br>
 🉑Git push  <br>
  Se utiliza para subir los cambios hechos en tu repositorio local a un repositorio remoto.  <br>
-Clonar un repositorio
+Clonar un repositorio  <br>
+Clonar un repositorio en Git significa hacer una copia completa del mismo en tu ordenador, incluyendo toda la historia del proyecto y permitiéndote navegar por sus cambios a lo largo del tiempo. <br>
+Hacer Fork de un repositorio existente <br>
+Para hacer un fork de un repositorio existente en GitHub, primero debes navegar a la página principal del repositorio que deseas clonar y luego presionar el botón "Fork" para crear una copia independiente de ese repositorio en tu cuenta de GitHub.
 
-
-Hacer Fork de un repositorio existente
