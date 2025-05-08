@@ -4,7 +4,7 @@
 Git es un sistema de control de versiones libre y de código abierto. Se trata de un sistema de control de versiones distribuido capaz de albergar proyectos de gran envergadura de forma ágil y eficiente.
 
 ***¿Qué es GitHub?***<br>
-Es una plataforma de desarrollo colaborativo que permite a los desarrolladores alojar, compartir y trabajar en proyectos de código fuente utilizado el sistema de control de versiones Git.
+Es una plataforma de desarrollo colaborativo que permite a los desarrolladores alojar, compartir y trabajar en proyectos de código fuente utilizado el sistema de control de versiones Git.<br>
 
 ***¿Qué necesitamos para usar GitHub en nuestros proyectos?***<br>
 Para usar GitHub en tus proyectos, necesitas seguir varios pasos y tener ciertos elementos preparados:
