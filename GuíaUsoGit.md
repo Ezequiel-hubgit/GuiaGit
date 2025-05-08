@@ -1,5 +1,5 @@
 # Guía básica del uso Git
-
+![logotipo de Git](https://ih1.redbubble.net/image.763822489.7166/flat,750x,075,f-pad,750x1000,f8f8f8.u3.jpg)
 ¿Qué es Git?<br>
 Git es un sistema de control de versiones libre y de código abierto. Se trata de un sistema de control de versiones distribuido capaz de albergar proyectos de gran envergadura de forma ágil y eficiente.
 
