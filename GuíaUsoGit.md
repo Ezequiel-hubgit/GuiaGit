@@ -38,7 +38,18 @@ Para trabajar con repositorios remotos, algunos comandos habituales incluyen:
 Estos comandos te permiten gestionar eficazmente tus repositorios tanto locales como remotos.
 
 Git init, git status,  git remote, git add . , git commit, git push
-
+🉑Git init <br>
+crear un nuevo repositorio de Git.  
+🉑Git status  <br>
+muestra el estado actual del directorio de trabajo y la área de ensayo en un repositorio Git. 
+🉑Git remote  <br>
+ Se utiliza para administrar las conexiones a otros repositorios remotos.
+🉑Git add. <br>
+ Se utiliza para agregar todos los archivos modificados en el directorio actual y sus subdirectorios al área de preparación (staging area) de Git. 
+🉑Git commit <br>
+Fija en la historia del proyecto un snapshot del estado actual, es decir, una versión "segura" o relevante del mismo proyecto.
+🉑Git push  <br>
+ Se utiliza para subir los cambios hechos en tu repositorio local a un repositorio remoto. 
 Clonar un repositorio
 
 
