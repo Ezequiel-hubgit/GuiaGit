@@ -39,17 +39,17 @@ Estos comandos te permiten gestionar eficazmente tus repositorios tanto locales 
 
 Git init, git status,  git remote, git add . , git commit, git push
 🉑Git init <br>
-crear un nuevo repositorio de Git.  
+crear un nuevo repositorio de Git.  <br>
 🉑Git status  <br>
-muestra el estado actual del directorio de trabajo y la área de ensayo en un repositorio Git. 
+muestra el estado actual del directorio de trabajo y la área de ensayo en un repositorio Git.  <br>
 🉑Git remote  <br>
- Se utiliza para administrar las conexiones a otros repositorios remotos.
+ Se utiliza para administrar las conexiones a otros repositorios remotos. <br>
 🉑Git add. <br>
- Se utiliza para agregar todos los archivos modificados en el directorio actual y sus subdirectorios al área de preparación (staging area) de Git. 
+ Se utiliza para agregar todos los archivos modificados en el directorio actual y sus subdirectorios al área de preparación (staging area) de Git.  <br>
 🉑Git commit <br>
-Fija en la historia del proyecto un snapshot del estado actual, es decir, una versión "segura" o relevante del mismo proyecto.
+Fija en la historia del proyecto un snapshot del estado actual, es decir, una versión "segura" o relevante del mismo proyecto. <br>
 🉑Git push  <br>
- Se utiliza para subir los cambios hechos en tu repositorio local a un repositorio remoto. 
+ Se utiliza para subir los cambios hechos en tu repositorio local a un repositorio remoto.  <br>
 Clonar un repositorio
 
 
