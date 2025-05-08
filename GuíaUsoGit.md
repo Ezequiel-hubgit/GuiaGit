@@ -37,7 +37,7 @@ Para trabajar con repositorios remotos, algunos comandos habituales incluyen:
 🥈git remote show origin: Este comando muestra información sobre el repositorio remoto, incluyendo las URLs de lectura y escritura, y las ramas locales y remotas.<br>
 Estos comandos te permiten gestionar eficazmente tus repositorios tanto locales como remotos.
 
-Git init, git status,  git remote, git add . , git commit, git push
+Git init, git status,  git remote, git add . , git commit, git push  <br>
 🉑Git init <br>
 crear un nuevo repositorio de Git.  <br>
 🉑Git status  <br>
