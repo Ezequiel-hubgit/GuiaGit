@@ -1,12 +1,12 @@
 # Guía básica del uso Git
 
-¿Qué es Git?<br>
+HEX`#RRGGBB` ¿Qué es Git?<br>
 Git es un sistema de control de versiones libre y de código abierto. Se trata de un sistema de control de versiones distribuido capaz de albergar proyectos de gran envergadura de forma ágil y eficiente.
 
-¿Qué es GitHub?<br>
+H`#RRGGBB`EX ¿Qué es GitHub?<br>
 Es una plataforma de desarrollo colaborativo que permite a los desarrolladores alojar, compartir y trabajar en proyectos de código fuente utilizado el sistema de control de versiones Git.
 
-¿Qué necesitamos para usar GitHub en nuestros proyectos?<br>
+ HEX `#RRGGBB`¿Qué necesitamos para usar GitHub en nuestros proyectos?<br>
 Para usar GitHub en tus proyectos, necesitas seguir varios pasos y tener ciertos elementos preparados:
 
 Cuenta en GitHub: <br>
@@ -21,17 +21,20 @@ Cuenta en GitHub: <br>
 🥇Revisión y Fusión: Aborda cualquier comentario, realiza los cambios necesarios, y una vez aprobado, fusiona la solicitud de extracción.<br>
 🥇Estos pasos te permiten gestionar y colaborar eficientemente en tus proyectos de código usando GitHub.<br>
 
-Alta GitHub, Git Bash (terminal), carpeta en disco local
+HEX `#RRGGBB` Alta GitHub, Git Bash (terminal), carpeta en disco local <br> 
+Acceder a una carpeta específica: Usa el comando cd seguido de la ruta de la carpeta que deseas entrar. Por ejemplo, si quieres entrar a la carpeta del escritorio, puedes usar cd desktop o cd ~/Desktop para navegar a la carpeta de escritorio en tu carpeta de usuario.<br>
+Listar el contenido de una carpeta: Utiliza el comando ls para listar los archivos y carpetas dentro de la carpeta actual.<br>
+Navegar a otro disco duro: Para navegar a otro disco duro, puedes usar el comando cd seguido de la letra del disco y la ruta de la carpeta. Por ejemplo, si tu disco duro está en la letra D, puedes usar cd /d/ seguido de la ruta de la carpeta que deseas entrar.<br>
 
 Comandos habituales para trabajar con repositorios remotos 
 Para trabajar con repositorios remotos, algunos comandos habituales incluyen:
 
-git clone: Este comando clona un repositorio remoto en tu máquina local. Por ejemplo, git clone ```URL_repositorio.```
-git fetch: Descarga todas las confirmaciones realizadas en el repositorio remoto hacia tu repositorio local. Este comando no fusiona los cambios automáticamente, sino que los coloca en una rama oculta llamada ```FETCH_HEAD.```
-git pull: Este comando obtiene los cambios realizados en el repositorio remoto y los fusiona con tu repositorio local. Es equivalente a ejecutar git fetch seguido de git merge.
-git push: Envía los cambios realizados en tu repositorio local a la rama especificada en el repositorio remoto. Por ejemplo, ```git push nombre_repositorio nombre_rama.```
-git remote add: Este comando añade un nuevo repositorio remoto. Por ejemplo, git remote add origin https://github.com/OWNER/REPOSITORY.git.
-git remote show origin: Este comando muestra información sobre el repositorio remoto, incluyendo las URLs de lectura y escritura, y las ramas locales y remotas.
+🥈git clone: Este comando clona un repositorio remoto en tu máquina local. Por ejemplo, git clone ```URL_repositorio.```
+🥈git fetch: Descarga todas las confirmaciones realizadas en el repositorio remoto hacia tu repositorio local. Este comando no fusiona los cambios automáticamente, sino que los coloca en una rama oculta llamada ```FETCH_HEAD.```
+🥈git pull: Este comando obtiene los cambios realizados en el repositorio remoto y los fusiona con tu repositorio local. Es equivalente a ejecutar git fetch seguido de git merge.
+🥈git push: Envía los cambios realizados en tu repositorio local a la rama especificada en el repositorio remoto. Por ejemplo, ```git push nombre_repositorio nombre_rama.```
+🥈git remote add: Este comando añade un nuevo repositorio remoto. Por ejemplo, git remote add origin https://github.com/OWNER/REPOSITORY.git.
+🥈git remote show origin: Este comando muestra información sobre el repositorio remoto, incluyendo las URLs de lectura y escritura, y las ramas locales y remotas.
 Estos comandos te permiten gestionar eficazmente tus repositorios tanto locales como remotos.
 
 Git init, git status,  git remote, git add . , git commit, git push
