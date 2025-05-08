@@ -9,7 +9,7 @@ Es una plataforma de desarrollo colaborativo que permite a los desarrolladores a
 ¿Qué necesitamos para usar GitHub en nuestros proyectos?
 Para usar GitHub en tus proyectos, necesitas seguir varios pasos y tener ciertos elementos preparados:
 
-Cuenta en GitHub: 
+Cuenta en GitHub: <br>
 🥇:Primero, necesitas registrarte en GitHub creando una cuenta de usuario gratuita.
 🥇:Configuración de Git: Asegúrate de tener instalado Git en tu computadora y configúralo con tu nombre de usuario y correo electrónico.
 🥇Creación de Repositorio: Crea un nuevo repositorio en GitHub para alojar tu proyecto.
